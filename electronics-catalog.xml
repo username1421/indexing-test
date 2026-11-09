@@ -160,4 +160,84 @@
     <stock>33</stock>
     <description>Механическая клавиатура 75%, hot-swap, Bluetooth</description>
   </product>
+  <product id="TN-021" sku="PHN-GGL-P9P">
+    <name>Google Pixel 9 Pro (new)</name>
+    <category>Смартфоны</category>
+    <brand>Google</brand>
+    <price>99990</price>
+    <stock>14</stock>
+    <description>6.3", Tensor G4, 12/256 GB, Gemini AI</description>
+  </product>
+  <product id="TN-022" sku="LAP-LNV-X1C">
+    <name>Lenovo ThinkPad X1 Carbon Gen 12 (new)</name>
+    <category>Ноутбуки</category>
+    <brand>Lenovo</brand>
+    <price>179990</price>
+    <stock>5</stock>
+    <description>14", Intel Core Ultra 7, 32 GB, 1 TB SSD</description>
+  </product>
+  <product id="TN-023" sku="WCH-APL-U2">
+    <name>Apple Watch Ultra 2 (new)</name>
+    <category>Носимые устройства</category>
+    <brand>Apple</brand>
+    <price>89990</price>
+    <stock>17</stock>
+    <description>49 mm, титан, GPS + Cellular, Action Button</description>
+  </product>
+  <product id="TN-024" sku="VAC-DYS-V15">
+    <name>Dyson V15 Detect (new)</name>
+    <category>Умный дом</category>
+    <brand>Dyson</brand>
+    <price>64990</price>
+    <stock>11</stock>
+    <description>Беспроводной пылесос, лазерная подсветка пыли</description>
+  </product>
+  <product id="TN-025" sku="ROB-ROB-S8">
+    <name>Roborock S8 MaxV Ultra (new)</name>
+    <category>Умный дом</category>
+    <brand>Roborock</brand>
+    <price>119990</price>
+    <stock>8</stock>
+    <description>Робот-пылесос с станцией самоочистки, AI obstacles</description>
+  </product>
+  <product id="TN-026" sku="RT-ASU-RTBE98">
+    <name>ASUS ROG Rapture GT-BE98 (new)</name>
+    <category>Сетевое оборудование</category>
+    <brand>ASUS</brand>
+    <price>74990</price>
+    <stock>6</stock>
+    <description>Wi-Fi 7, quad-band, 10G порт</description>
+  </product>
+  <product id="TN-027" sku="SPK-SON-HTA9">
+    <name>Sony HT-A9 Mk2 (new)</name>
+    <category>Аудио</category>
+    <brand>Sony</brand>
+    <price>249990</price>
+    <stock>2</stock>
+    <description>Домашний кинотеатр 7.1.4, 360 Spatial Sound</description>
+  </product>
+  <product id="TN-028" sku="VR-META-Q3">
+    <name>Meta Quest 3 512GB (new)</name>
+    <category>VR и AR</category>
+    <brand>Meta</brand>
+    <price>59990</price>
+    <stock>13</stock>
+    <description>Mixed reality, Snapdragon XR2 Gen 2</description>
+  </product>
+  <product id="TN-029" sku="PRT-CAN-TS8340">
+    <name>Canon PIXMA TS8340 (new)</name>
+    <category>Периферия</category>
+    <brand>Canon</brand>
+    <price>24990</price>
+    <stock>20</stock>
+    <description>МФУ A4, Wi-Fi, печать с телефона</description>
+  </product>
+  <product id="TN-030" sku="PWR-ANK-737">
+    <name>Anker Prime 27 650mAh (new)</name>
+    <category>Аксессуары</category>
+    <brand>Anker</brand>
+    <price>16990</price>
+    <stock>58</stock>
+    <description>Повербанк 250W, 3 порта USB-C, дисплей</description>
+  </product>
 </catalog>
