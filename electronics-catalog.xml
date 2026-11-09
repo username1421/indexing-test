@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog store="TechNova Electronics" currency="RUB" generated="2026-11-09">
+  <product id="TN-001" sku="LAP-DELL-XPS15">
+    <name>Dell XPS 15 9530</name>
+    <category>Ноутбуки</category>
+    <brand>Dell</brand>
+    <price>189990</price>
+    <stock>12</stock>
+    <description>15.6", Intel Core i7, 16 GB RAM, 512 GB SSD, OLED</description>
+  </product>
+  <product id="TN-002" sku="LAP-APL-MBP14">
+    <name>Apple MacBook Pro 14" M3 Pro</name>
+    <category>Ноутбуки</category>
+    <brand>Apple</brand>
+    <price>249990</price>
+    <stock>8</stock>
+    <description>14.2", Apple M3 Pro, 18 GB, 512 GB SSD, Liquid Retina XDR</description>
+  </product>
+  <product id="TN-003" sku="PHN-SMS-S24U">
+    <name>Samsung Galaxy S24 Ultra</name>
+    <category>Смартфоны</category>
+    <brand>Samsung</brand>
+    <price>119990</price>
+    <stock>34</stock>
+    <description>6.8", Snapdragon 8 Gen 3, 12/256 GB, S Pen</description>
+  </product>
+  <product id="TN-004" sku="PHN-APL-IP15P">
+    <name>Apple iPhone 15 Pro</name>
+    <category>Смартфоны</category>
+    <brand>Apple</brand>
+    <price>134990</price>
+    <stock>21</stock>
+    <description>6.1", A17 Pro, 128 GB, титановый корпус</description>
+  </product>
+  <product id="TN-005" sku="TAB-APL-IPDAIR">
+    <name>Apple iPad Air 11" M2</name>
+    <category>Планшеты</category>
+    <brand>Apple</brand>
+    <price>74990</price>
+    <stock>15</stock>
+    <description>11", M2, 128 GB Wi-Fi, Liquid Retina</description>
+  </product>
+  <product id="TN-006" sku="MON-LG-27UP">
+    <name>LG UltraFine 27UP850-W</name>
+    <category>Мониторы</category>
+    <brand>LG</brand>
+    <price>52990</price>
+    <stock>19</stock>
+    <description>27" 4K IPS, USB-C 96W, HDR400</description>
+  </product>
+  <product id="TN-007" sku="MON-SMS-OG9">
+    <name>Samsung Odyssey G9 49"</name>
+    <category>Мониторы</category>
+    <brand>Samsung</brand>
+    <price>89990</price>
+    <stock>6</stock>
+    <description>49" DQHD изогнутый, 240 Hz, VA</description>
+  </product>
+  <product id="TN-008" sku="GPU-NVD-4080">
+    <name>NVIDIA GeForce RTX 4080 Super</name>
+    <category>Комплектующие</category>
+    <brand>ASUS</brand>
+    <price>109990</price>
+    <stock>4</stock>
+    <description>16 GB GDDR6X, TUF Gaming</description>
+  </product>
+  <product id="TN-009" sku="SSD-SMS-990P">
+    <name>Samsung 990 PRO 2TB</name>
+    <category>Накопители</category>
+    <brand>Samsung</brand>
+    <price>18990</price>
+    <stock>47</stock>
+    <description>NVMe M.2, PCIe 4.0, до 7450 MB/s</description>
+  </product>
+  <product id="TN-010" sku="RAM-CRU-32D">
+    <name>Crucial DDR5 32GB Kit (2x16)</name>
+    <category>Комплектующие</category>
+    <brand>Crucial</brand>
+    <price>9990</price>
+    <stock>62</stock>
+    <description>5600 MHz, CL46, для Intel/AMD</description>
+  </product>
+  <product id="TN-011" sku="HPH-SNY-XM5">
+    <name>Sony WH-1000XM5</name>
+    <category>Аудио</category>
+    <brand>Sony</brand>
+    <price>29990</price>
+    <stock>28</stock>
+    <description>Беспроводные наушники с шумоподавлением</description>
+  </product>
+  <product id="TN-012" sku="HPH-APL-APMAX">
+    <name>Apple AirPods Max</name>
+    <category>Аудио</category>
+    <brand>Apple</brand>
+    <price>59990</price>
+    <stock>11</stock>
+    <description>Over-ear, Active Noise Cancellation, USB-C</description>
+  </product>
+  <product id="TN-013" sku="SPK-JBL-FLIP6">
+    <name>JBL Flip 6</name>
+    <category>Аудио</category>
+    <brand>JBL</brand>
+    <price>10990</price>
+    <stock>55</stock>
+    <description>Портативная колонка, IP67, 12 ч работы</description>
+  </product>
+  <product id="TN-014" sku="CAM-CAN-R6II">
+    <name>Canon EOS R6 Mark II</name>
+    <category>Фото и видео</category>
+    <brand>Canon</brand>
+    <price>219990</price>
+    <stock>3</stock>
+    <description>Беззеркалка full-frame, 24 MP, 4K 60p</description>
+  </product>
+  <product id="TN-015" sku="CAM-DJI-MINI4">
+    <name>DJI Mini 4 Pro</name>
+    <category>Дроны</category>
+    <brand>DJI</brand>
+    <price>89990</price>
+    <stock>9</stock>
+    <description>4K HDR, omnidirectional sensing, &lt; 249 г</description>
+  </product>
+  <product id="TN-016" sku="TV-LG-OLED55">
+    <name>LG OLED55C4</name>
+    <category>Телевизоры</category>
+    <brand>LG</brand>
+    <price>129990</price>
+    <stock>7</stock>
+    <description>55" 4K OLED, α9 AI, webOS, HDMI 2.1</description>
+  </product>
+  <product id="TN-017" sku="GAM-PS5-SLIM">
+    <name>Sony PlayStation 5 Slim</name>
+    <category>Игровые консоли</category>
+    <brand>Sony</brand>
+    <price>54990</price>
+    <stock>18</stock>
+    <description>825 GB SSD, DualSense в комплекте</description>
+  </product>
+  <product id="TN-018" sku="GAM-NSW-OLED">
+    <name>Nintendo Switch OLED</name>
+    <category>Игровые консоли</category>
+    <brand>Nintendo</brand>
+    <price>34990</price>
+    <stock>22</stock>
+    <description>7" OLED, 64 GB, док-станция</description>
+  </product>
+  <product id="TN-019" sku="ACC-LOG-MX3S">
+    <name>Logitech MX Master 3S</name>
+    <category>Периферия</category>
+    <brand>Logitech</brand>
+    <price>9990</price>
+    <stock>41</stock>
+    <description>Беспроводная мышь, 8K DPI, тихие клики</description>
+  </product>
+  <product id="TN-020" sku="ACC-KEY-KEYCHR">
+    <name>Keychron K2 Pro</name>
+    <category>Периферия</category>
+    <brand>Keychron</brand>
+    <price>12990</price>
+    <stock>33</stock>
+    <description>Механическая клавиатура 75%, hot-swap, Bluetooth</description>
+  </product>
+</catalog>
